@@ -1,0 +1,19 @@
+{
+  "name": "phantomjs-gusto",
+  "version": "1.0.0",
+  "description": "Net Gusto builds of PhantomJS 2.0.0 supporting webfonts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netgusto/phantomjs-gusto.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/netgusto/phantomjs-gusto/issues"
+  },
+  "homepage": "https://github.com/netgusto/phantomjs-gusto#readme"
+}
